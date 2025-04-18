@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @rezadoz. I'm a total noob and I SUCK!!!!!!!!!!!
+- I make terminal programs for unix systems.
+- I suck
 
 <!---
 rezadoz/rezadoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
